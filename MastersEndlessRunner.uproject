@@ -19,10 +19,6 @@
 				"Mac",
 				"Linux"
 			]
-		},
-		{
-			"Name": "MixamoAnimToUE5",
-			"Enabled": true
 		}
 	]
 }
