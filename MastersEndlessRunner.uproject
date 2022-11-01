@@ -19,6 +19,13 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "RemoteSession",
+			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Android"
 	]
 }
