@@ -19,10 +19,6 @@
 				"Mac",
 				"Linux"
 			]
-		},
-		{
-			"Name": "RemoteSession",
-			"Enabled": true
 		}
 	]
 }
